@@ -5,3 +5,11 @@
 - 📫 Contact me using my discord: itarqosv5
 - 😄 Pronouns: He/Him
 - 😄 If anyone knows about DLL and compilement please contact me asap!
+- 👀 Im working on a python library to import the content of dll files to python files without compilement (since most people dont know how to compile DLL files)
+
+
+
+
+
+                                                        - Contact me in discord: itarqosv5
+                                                        - Contact me in whatsapp: +212672396769
