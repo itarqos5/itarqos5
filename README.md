@@ -1,37 +1,55 @@
-Hi there!
+Hi there! 👋
 
-I'm itarqos, itar for short, im a developer, Java dev, experienced in java, js, node.js, python, and HTML
+I'm itarqos (itar for short) – a developer 💻 skilled in Java, JavaScript, CSS, Node.js, Python, and HTML! 🚀
 
-Languages i acknowledge of existence:
-Java
-Python 
-Node.JS
-Javascript
-HTML
-CSS
-C++ (I suck at this)
-C# (I suck at it too)
-C (Yep, you guessed it)
+🌍 Languages I Acknowledge Exist:
 
-I'm a:
- Python Networking Developer
- Java Minecraft Spigot Developer (Learning it)
- Java Minecraft Fabric Developer 
- Expert Web Developer
+☕ Java
 
+🐍 Python
 
-CEO of Icies Hosting
-https://icieshosting.shop
+⚡ Node.js
 
-Our discord:
-https://icieshosting.shop/discord
+🌐 JavaScript
+
+🏗️ HTML & 🎨 CSS
+
+🔧 C++ (I suck at this 😅)
+
+🎮 C# (I suck at it too 😆)
+
+🏴‍☠️ C (Yep, you guessed it 🤷)
 
 
-Pronouns: He/him
+🛠️ What I Do:
 
-Contact me @:
-  - Discord: secretcatagent
-  - Telegram: None
-  - WhatsApp: Private
+🖧 Python Networking Developer (HTTP/WSS Protocols)
 
-Thanks for your time 
+🎮 Java Minecraft Spigot Developer (Learning it! 📖)
+
+🏗️ Java Minecraft Fabric Developer
+
+🌍 Expert Web Developer
+
+
+🚀 CEO of Icies Hosting
+
+🔗 https://icieshosting.shop
+
+🎉 Join Our Discord:
+
+🔗 https://icieshosting.shop/discord
+
+⚡ Pronouns: He/Him
+
+📬 Contact Me:
+
+💬 Discord: secretcatagent
+
+📱 Telegram: None
+
+🔒 WhatsApp: Private
+
+
+Thanks for your time! 😊
+
