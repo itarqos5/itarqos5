@@ -8,7 +8,7 @@ I'm itarqos (itar for short) – a developer 💻 skilled in Java, JavaScript, C
 
 🐍 Python
 
-⚡ Node.js
+⚡ Node.js 
 
 🌐 JavaScript
 
@@ -23,13 +23,15 @@ I'm itarqos (itar for short) – a developer 💻 skilled in Java, JavaScript, C
 
 🛠️ What I Do:
 
-🖧 Python Networking Developer (HTTP/WSS Protocols)
+🖧 Python Networking Developer (HTTP/WSS Protocols) and discord bot developer
 
 🎮 Java Minecraft Spigot Developer (Learning it! 📖)
 
 🏗️ Java Minecraft Fabric Developer
 
 🌍 Expert Web Developer
+
+  Node.JS Networking Developer (HTTP/HTTPS)
 
 
 🚀 CEO of Icies Hosting
