@@ -1,57 +1,45 @@
-Hi there! 👋
+# Hi there! 👋
 
-I'm itarqos (itar for short) – a developer 💻 skilled in Java, JavaScript, CSS, Node.js, Python, and HTML! 🚀
+I'm **itarqos** (or just **itar**) – a developer 💻 skilled in **Java**, **JavaScript**, **CSS**, **Node.js**, **Python**, and **HTML**! 🚀
 
-🌍 Languages I Acknowledge Exist:
+---
 
-☕ Java
+## 🌍 Languages I Acknowledge Exist
 
-🐍 Python
+- ☕ **Java**
+- 🐍 **Python**
+- ⚡ **Node.js**
+- 🌐 **JavaScript**
+- 🏗️ **HTML** & 🎨 **CSS**
+- 🔧 **C++** (I suck at this 😅)
+- 🎮 **C#** (I suck at it too 😆)
+- 🏴‍☠️ **C** (Yep, you guessed it 🤷)
+- ⚡**TypeScript**
 
-⚡ Node.js 
+---
 
-🌐 JavaScript
+## 🛠️ What I Do
 
-🏗️ HTML & 🎨 CSS
+- 🖧 **Python Networking Developer** (HTTP/WSS Protocols) & Discord bot developer  
+- 🎮 **Java Minecraft Spigot Developer** *(Learning it! 📖)*  
+- 🏗️ **Java Minecraft Fabric Developer**  
+- 🌍 **Expert Web Developer**  
+- ⚡ **Node.js Networking Developer** (HTTP/HTTPS)
 
-🔧 C++ (I suck at this 😅)
+---
 
-🎮 C# (I suck at it too 😆)
+## 🚀 CEO of [CubeHosting](https://cubehosting.cloud)
 
-🏴‍☠️ C (Yep, you guessed it 🤷)
+🎉 **Join Our [**Discord**](https://discord.gg/m6DD6KCcjw)
 
+---
 
-🛠️ What I Do:
+## ⚡ Pronouns: He/Him
 
-🖧 Python Networking Developer (HTTP/WSS Protocols) and discord bot developer
+## 📬 Contact Me
+- 💬 **Discord**: `itarqos5`
+- 🔒 **WhatsApp**: Private
 
-🎮 Java Minecraft Spigot Developer (Learning it! 📖)
+---
 
-🏗️ Java Minecraft Fabric Developer
-
-🌍 Expert Web Developer
-
-  Node.JS Networking Developer (HTTP/HTTPS)
-
-
-🚀 CEO of Icies Hosting
-
-🔗 https://icieshosting.shop
-
-🎉 Join Our Discord:
-
-🔗 https://icieshosting.shop/discord
-
-⚡ Pronouns: He/Him
-
-📬 Contact Me:
-
-💬 Discord: secretcatagent
-
-📱 Telegram: None
-
-🔒 WhatsApp: Private
-
-
-Thanks for your time! 😊
-
+**Thanks for your time!** 😊
