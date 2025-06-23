@@ -21,8 +21,8 @@ I'm **itarqos** (or just **itar**) – a developer 💻 skilled in **Java**, **J
 ## 🛠️ What I Do
 
 - 🖧 **Python Networking Developer** (HTTP/WSS Protocols) & Discord bot developer  
-- 🎮 **Java Minecraft Spigot Developer** *(Learning it! 📖)*  
-- 🏗️ **Java Minecraft Fabric Developer**  
+- 🎮 **Java Minecraft Spigot Developer**  
+- 🏗️ **Java Minecraft Fabric Developer (Quit)**  
 - 🌍 **Expert Web Developer Using Frameworks Like NextJS, NuxtJS and React**  
 - ⚡ **Node.js Networking Developer** (HTTP/HTTPS)
 
