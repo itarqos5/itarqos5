@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on Codejet & MemDB<br>I'm interested in backend and desktop applications<br>
+I'm currently working on Rustwire-MC & ChampionAnticheat
+
+Rustwire-MC: A rust library for minecraft networking
+ChampionAnticheat: A client-side & server-side anticheat that can read your mods & injected classes into your game to detect cheats such as Wurst, Meteor, and others..
 
 
 ## 🌐 Socials:
